@@ -1,0 +1,6 @@
+E:\GitHub\MyASPNETTest\MyASPNETTest\Common\bin\Debug\netcoreapp2.0\Common.deps.json
+E:\GitHub\MyASPNETTest\MyASPNETTest\Common\bin\Debug\netcoreapp2.0\Common.dll
+E:\GitHub\MyASPNETTest\MyASPNETTest\Common\obj\Debug\netcoreapp2.0\Common.csprojAssemblyReference.cache
+E:\GitHub\MyASPNETTest\MyASPNETTest\Common\obj\Debug\netcoreapp2.0\Common.csproj.CoreCompileInputs.cache
+E:\GitHub\MyASPNETTest\MyASPNETTest\Common\obj\Debug\netcoreapp2.0\Common.AssemblyInfoInputs.cache
+E:\GitHub\MyASPNETTest\MyASPNETTest\Common\obj\Debug\netcoreapp2.0\Common.AssemblyInfo.cs
